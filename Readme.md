@@ -1,6 +1,8 @@
 # NextTech
 A simple and responsive landing page for tech blog website covering web development, programming, AI, and technology trends.
 
+**Live Preview:** [NextTech](https://harshrajput-0.github.io/NextTech/)
+
 ## Tech Stack
 
 * HTML
